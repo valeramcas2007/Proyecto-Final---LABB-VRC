@@ -1,0 +1,8 @@
+CIERRE 2026-10-14
+tiquetes=0
+parqueo=0
+recarga=0
+total=0
+CARRO tiquetes=0 total=0
+MOTO tiquetes=0 total=0
+ELECTRICO tiquetes=0 total=0
